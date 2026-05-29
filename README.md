@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Yashh 👋
 
-<!--
-**yashh012/yashh012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Engineer in Progress
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE (AI & ML)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Passionate about:
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Generative AI
+
+## Tech Stack
+- Python
+- TensorFlow
+- PyTorch
+- OpenCV
+- Git & GitHub
+- Machine Learning
+
+## Featured Projects
+### LEYA AI Chatbot
+Intelligent conversational assistant built using Python.
+
+### LEYA Virtual Assistant
+Voice-powered AI assistant for desktop automation.
+
+### LEYA Maps AI Navigation
+AI-based navigation and safe speed prediction system.
+
+### LEYA Ride AI Transport
+Machine learning transportation fare prediction system.
+
+## Currently Learning
+- Generative AI
+- LLM Engineering
+- RAG Systems
+- Multi-Agent AI
+
+## Connect
+📧 kyashwanth084@gmail.com
