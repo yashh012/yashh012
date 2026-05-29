@@ -43,9 +43,10 @@ Machine learning transportation fare prediction system.
 
 ## Connect
 📧 kyashwanth084@gmail.com
+## 🛠️ Tech Stack
 
-## 📊 GitHub Stats
-
-![Yashh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashh012&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashh012&layout=compact&theme=tokyonight)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
