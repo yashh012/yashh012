@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="image.png" width="100%">
+</p>
 # Hi, I'm Yashh 👋
 
 ## AI Engineer in Progress
